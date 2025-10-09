@@ -50,6 +50,25 @@
 
 ---
 
+### 🧠 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/1508vansh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/1508vansh" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/1508vansh" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/1508vansh/practice" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
