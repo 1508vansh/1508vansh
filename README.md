@@ -38,7 +38,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
@@ -75,13 +74,13 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/vanshsoni" target="_blank">
+  <a href="www.linkedin.com/in/vansh-soni-619736286" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/vanshsoni" target="_blank">
+  <a href="https://github.com/1508vansh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://x.com/vansh_soni" target="_blank">
+  <!-- <a href="https://x.com/vansh_soni" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
   </a>
   <a href="mailto:vanshsoni@gmail.com">
@@ -89,7 +88,7 @@
   </a>
   <a href="https://vanshsoni.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
