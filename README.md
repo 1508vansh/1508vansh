@@ -11,10 +11,11 @@
 
 ### 💫 About Me
 
-- 👨‍💻 I'm a **3rd-year Computer Science student** passionate about full-stack development & problem solving.  
+- 👨‍💻 I'm a **3rd-year Computer Science student** passionate about full-stack development & problem solving, and competitive programming.  
 - 🧩 I love building **real-time, interactive, and scalable web apps** with modern JavaScript frameworks.  
-- 🌱 Currently exploring **backend scaling, WebSockets, and cybersecurity fundamentals.**  
-- 🎯 Goal: Build impactful products like **BitSorter**, **DSA.io**, and **FridgeBuddy** that solve real problems.  
+- 🌱 Currently exploring **backend scaling, WebSockets and webRTC** as well as competitive programming.   
+- 🎯 Goal: Build impactful products like **BitSorter**, **DSA.io**, and **FridgeBuddy** that solve real problems.
+- 🧠 Solved **600+ DSA problems** on platforms like LeetCode, Codeforces, Codechef, and GFG.    
 - ⚡ Fun fact: I debug faster with music 🎧 and caffeine ☕.  
 
 ---
@@ -45,10 +46,8 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🧮 **[BitSorter](https://github.com/vanshsoni/bitsorter)** | A LeetCode-style coding platform with infinite scroll, Judge0 integration, and real-time editor. | React, Node, Express, MongoDB |
-| 🍳 **[FridgeBuddy](https://github.com/vanshsoni/fridgebuddy)** | Recipe finder app that suggests dishes using ingredients in your fridge. | MERN, TailwindCSS |
-| 🧠 **[DSA Visualizer](https://github.com/vanshsoni/dsa-visualizer)** | Visualizes data structures like stack, queue, and graph algorithms. | React, Redux, Tailwind |
-| 🛡️ **[CyberVault](https://github.com/vanshsoni/cybervault)** | A toolkit of cybersecurity utilities and tools built while preparing for certification. | Node.js, Express, APIs |
+| 🧠 **[BitSorter](https://github.com/1508vansh/BitSorter.git)** | A all in one coding platform with Problem solving, AI integration, DSA visualization, Judge0 integration, and real-time Room contest (in Building Phase). | React, Node, Express, MongoDB, Daisy UI, Tailwind, Judge0 api, Redux, Google Gemini API and many more |
+| 🍳 **[FridgeBuddy](https://github.com/1508vansh/FridgeBuddy.git)** | Recipe finder app that suggests dishes using ingredients in your fridge. | React, Redux, TailwindCSS, Spoonacular API |
 
 ---
 
