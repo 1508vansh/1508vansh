@@ -80,9 +80,9 @@
 ---
 
 ### 🏆 Achievements & Highlights
-- 🧩 Completed 100+ DSA problems — focused on sliding window, DP, and graphs  
+- 🧩 Completed 600+ DSA problems — focused on sliding window, DP, and graphs and many topics.
 - 🧠 Built real-time collaborative projects using **Socket.io**  
-- 🔐 Preparing for cybersecurity certifications & mastering PKI, CVSS, NIST Framework  
+- 🔐 Learning Backend.
 - 💡 Hackathon participant — created **STRIKE** (premium course platform)
 
 ---
