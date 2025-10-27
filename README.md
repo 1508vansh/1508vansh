@@ -45,7 +45,7 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🧠 **[BitSorter](https://github.com/1508vansh/BitSorter.git)** | A all in one coding platform with Problem solving, AI integration, DSA visualization, Judge0 integration, and real-time Room contest (in Building Phase). | React, Node, Express, MongoDB, Daisy UI, Tailwind, Judge0 api, Redux, Google Gemini API and many more |
+| 🧠 **[BitSorter](https://github.com/1508vansh/BitSorter_2.0.git)** | A all in one coding platform with Problem solving, AI integration, DSA visualization, Judge0 integration, and real-time Room contest (in Building Phase). | React, Node, Express, MongoDB, Daisy UI, Tailwind, Judge0 api, Redux, Google Gemini API and many more |
 | 🍳 **[FridgeBuddy](https://github.com/1508vansh/FridgeBuddy.git)** | Recipe finder app that suggests dishes using ingredients in your fridge. | React, Redux, TailwindCSS, Spoonacular API |
 
 ---
