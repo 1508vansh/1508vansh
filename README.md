@@ -81,7 +81,7 @@
 ---
 
 ### 🏆 Achievements & Highlights
-- 🧩 Completed 600+ DSA problems — focused on sliding window, DP, and graphs and many topics.
+- 🧩 Completed 800+ DSA problems — focused on sliding window, DP, and graphs and many topics.
 - 🧠 Built real-time collaborative projects using **Socket.io**  
 - 🔐 Learning Backend.
 - 💡 Hackathon participant — created **STRIKE** (premium course platform)
