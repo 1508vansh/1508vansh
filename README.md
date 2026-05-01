@@ -1,123 +1,140 @@
-<!-- 👋 Vansh Soni GitHub Profile README -->
+<div align="center">
 
-<h1 align="center">Hey there, I'm Vansh Soni 👋</h1>
-<h3 align="center"> Full-Stack Developer | 💻 MERN Enthusiast | 🧠 DSA Conqueror </h3>
+```
+██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗    ███████╗ ██████╗ ███╗   ██╗██╗
+██║   ██║██╔══██╗████╗  ██║██╔════╝██║  ██║    ██╔════╝██╔═══██╗████╗  ██║██║
+██║   ██║███████║██╔██╗ ██║███████╗███████║    ███████╗██║   ██║██╔██╗ ██║██║
+╚██╗ ██╔╝██╔══██║██║╚██╗██║╚════██║██╔══██║    ╚════██║██║   ██║██║╚██╗██║██║
+ ╚████╔╝ ██║  ██║██║ ╚████║███████║██║  ██║    ███████║╚██████╔╝██║ ╚████║██║
+  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝    ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝
+```
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Turning+ideas+into+code+💡;Building+scalable+full-stack+apps+🚀;Learning+every+day+🧠" alt="Typing SVG" />
-</p>
-
----
-
-### 💫 About Me
-
-- 👨‍💻 I'm a **3rd-year Computer Science student** passionate about full-stack development & problem solving, and competitive programming.  
-- 🧩 I love building **real-time, interactive, and scalable web apps** with modern JavaScript frameworks.  
-- 🌱 Currently exploring **backend scaling, WebSockets and webRTC** as well as competitive programming.   
-- 🎯 Goal: Build impactful products like **BitSorter**, **DSA.io**, and **FridgeBuddy** that solve real problems.
-- 🧠 Solved **600+ DSA problems** on platforms like LeetCode, Codeforces, Codechef, and GFG.    
-- ⚡ Fun fact: I debug faster with music 🎧 and caffeine ☕.  
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=1508vansh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
 
-#### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=tailwindcss)
+### `$ whoami`
 
-#### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+Full-Stack Developer in my **3rd year of CS**, building things that actually work — and occasionally, things that work *really* well.
 
-#### 🧰 Tools & Others
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman)
+I care about shipping clean, scalable code. I'm deep into the **MERN stack**, obsessed with real-time systems, and spend too much time thinking about system design at 2 AM.
+
+- 🔨 Currently building **[BitSorter](https://github.com/1508vansh/BitSorter_2.0.git)** — an all-in-one competitive coding platform
+- 📡 Exploring **WebSockets**, **WebRTC**, and backend scaling patterns
+- 🧠 **800+ DSA problems** solved across LeetCode, Codeforces, CodeChef & GFG
+- 🎧 Best debugger: lo-fi + black coffee
+
+<br clear="right"/>
 
 ---
 
-### Featured Projects
+### `$ ls projects/`
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| **[BitSorter](https://github.com/1508vansh/BitSorter_2.0.git)** | A all in one coding platform with Problem solving, AI integration, DSA visualization, Judge0 integration, and real-time Room contest (in Building Phase). | React, Node, Express, MongoDB, Daisy UI, Tailwind, Judge0 api, Redux, Google Gemini API and many more |
-| **[Frontify](https://github.com/1508vansh/Frontify---AI-Website-Builder-VS-Code-Extension.git)** | (VS Code Extension) AI Website builder, Builds Single Page HTML/CSS/JS simple websites in User's working directory.| VS Code Extension API, NodeJS, AI Agent, Google Gemini API and many more |
-|  **[FridgeBuddy](https://github.com/1508vansh/FridgeBuddy.git)** | Recipe finder app that suggests dishes using ingredients in your fridge. | React, Redux, TailwindCSS, Spoonacular API |
+<table>
+<tr>
+<td width="50%">
 
----
+#### 🔷 [BitSorter 2.0](https://github.com/1508vansh/BitSorter_2.0.git)
+An all-in-one coding platform — problem solving, AI assistance, DSA visualizations, Judge0 code execution, and real-time contest rooms.
 
-### 🧠 Coding Profiles
+`React` `Node.js` `MongoDB` `Socket.io` `Judge0` `Gemini API` `Redux`
 
-<p align="center">
-  <a href="https://leetcode.com/u/vanshsoni301/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://codeforces.com/profile/VanshSoni13" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
- <a href="https://codolio.com/profile/Vansh@123" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=codolio&logoColor=white" />
-  </a>
-</p>
+</td>
+<td width="50%">
 
----
+#### 🔷 [Frontify](https://github.com/1508vansh/Frontify---AI-Website-Builder-VS-Code-Extension.git)
+VS Code extension that builds single-page HTML/CSS/JS websites using an AI agent directly inside your working directory. Zero context switching.
 
-### 📊 GitHub Stats
+`VS Code API` `Node.js` `Gemini API` `AI Agent`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1508vansh&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1508vansh&layout=compact&theme=tokyonight" height="165" />
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1508vansh&theme=tokyonight" />
-</p>
+#### 🔷 [FridgeBuddy](https://github.com/1508vansh/FridgeBuddy.git)
+Tell it what's in your fridge. Get recipes. Eat something decent.
 
----
+`React` `Redux` `TailwindCSS` `Spoonacular API`
 
-### 🏆 Achievements & Highlights
-- 🧩 Completed 800+ DSA problems — focused on sliding window, DP, and graphs and many topics.
-- 🧠 Built real-time collaborative projects using **Socket.io**  
-- 🔐 Learning Backend.
-- 💡 Hackathon participant — created **STRIKE** (premium course platform)
+</td>
+<td width="50%">
+
+#### 🔷 STRIKE *(Hackathon)*
+Premium course platform built under hackathon constraints. Focused on clean UX and fast delivery.
+
+`Full-Stack` `React` `Node.js`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌐 Connect With Me
+### `$ cat stack.txt`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vansh-soni-619736286" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/1508vansh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <!-- <a href="https://x.com/vansh_soni" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
-  </a>
-  <a href="mailto:vanshsoni@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://vanshsoni.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a> -->
-</p>
+```javascript
+const vansh = {
+  frontend  : ["React", "Redux", "TailwindCSS", "DaisyUI"],
+  backend   : ["Node.js", "Express.js", "REST APIs", "Socket.io"],
+  database  : ["MongoDB", "Mongoose"],
+  tools     : ["Git", "Postman", "VS Code", "Judge0"],
+  exploring : ["WebRTC", "WebSockets", "System Design", "Backend Scaling"],
+  cp        : ["LeetCode", "Codeforces", "CodeChef", "GFG"]
+}
+```
 
 ---
 
-### 🧩 Quote
-> "Code is like art — it becomes beautiful when logic and creativity meet."
+### `$ cat stats/`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=1508vansh&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1508vansh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="38%" />
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1508vansh&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshsoni&theme=tokyo-night" alt="activity graph" />
-</p>
+### `$ open profiles/`
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-800%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/vanshsoni301/)
+&nbsp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-VanshSoni13-445F9D?style=flat-square&logo=codeforces)](https://codeforces.com/profile/VanshSoni13)
+&nbsp;
+[![Codolio](https://img.shields.io/badge/Codolio-Portfolio-000000?style=flat-square)](https://codolio.com/profile/Vansh@123)
+
+</div>
 
 ---
 
+### `$ git log --connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vansh%20Soni-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vansh-soni-619736286)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-1508vansh-181717?style=flat-square&logo=github)](https://github.com/1508vansh)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Shipping > perfecting. But don't ship garbage."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=1508vansh&color=58a6ff&style=flat-square&label=profile+views)
+
+</div>
