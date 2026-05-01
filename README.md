@@ -45,7 +45,7 @@ problems solved     ->  800+ across LC / CF / CC / GFG
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,nodejs,express,mongodb,js,cpp,git,github,vscode,postman&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,nodejs,express,mongodb,js,ts,cpp,java,mysql,docker,aws,git,github,vscode,postman&theme=dark&perline=6" />
 
 </div>
 
@@ -55,8 +55,9 @@ problems solved     ->  800+ across LC / CF / CC / GFG
 const vansh = {
   frontend  : ["React", "Redux", "TailwindCSS", "DaisyUI"],
   backend   : ["Node.js", "Express.js", "Socket.io", "REST APIs"],
-  database  : ["MongoDB", "Mongoose"],
-  tools     : ["Git", "Postman", "VS Code", "Judge0"],
+  database  : ["MongoDB", "Mongoose", "MySQL"],
+  languages : ["JavaScript", "TypeScript", "C++", "Java"],
+  tools     : ["Git", "Postman", "VS Code", "Docker", "AWS", "Judge0"],
   exploring : ["WebRTC", "WebSockets", "System Design", "Backend Scaling"],
 }
 ```
