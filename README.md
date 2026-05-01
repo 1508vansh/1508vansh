@@ -9,7 +9,7 @@
   ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝    ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+MERN+Stack;800%2B+DSA+Problems+Solved;Building+real-time+%26+scalable+systems;Always+shipping%2C+always+learning." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+MERN+Stack;1000%2B+DSA+Problems+Solved;Building+real-time+%26+scalable+systems;Always+shipping%2C+always+learning." alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/vansh-soni-619736286">
@@ -35,8 +35,8 @@ Right now I'm deep into real-time systems, backend architecture, and competitive
 
 ```
 currently building  ->  BitSorter 2.0  (all-in-one coding platform)
-currently learning  ->  WebSockets, WebRTC, system design
-problems solved     ->  800+ across LC / CF / CC / GFG
+currently doing  ->  internship, system design
+problems solved     ->  1000+ across LC / CF / CC / GFG / HackerRank
 ```
 
 ---
@@ -97,15 +97,6 @@ You put in what's in your fridge. It tells you what to cook. Simple problem, cle
 `React` `Redux` `TailwindCSS` `Spoonacular API`
 
 </td>
-<td width="50%" valign="top">
-
-**STRIKE** *(Hackathon)*
-
-Premium course platform built under time pressure. Learned a lot about scoping fast and cutting the right corners.
-
-`React` `Node.js` `MongoDB`
-
-</td>
 </tr>
 </table>
 
@@ -138,7 +129,7 @@ Premium course platform built under time pressure. Learned a lot about scoping f
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-800%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vanshsoni301/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-vansh%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vanshsoni301/)
 &nbsp;&nbsp;
 [![Codolio](https://img.shields.io/badge/Codolio-all_profiles-000000?style=for-the-badge)](https://codolio.com/profile/Vansh@123)
 
