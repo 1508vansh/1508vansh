@@ -129,7 +129,7 @@ You put in what's in your fridge. It tells you what to cook. Simple problem, cle
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-vansh%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vanshsoni301/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-vansh?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vanshsoni301/)
 &nbsp;&nbsp;
 [![Codolio](https://img.shields.io/badge/Codolio-all_profiles-000000?style=for-the-badge)](https://codolio.com/profile/Vansh@123)
 
