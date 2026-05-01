@@ -60,14 +60,6 @@ Tell it what's in your fridge. Get recipes. Eat something decent.
 `React` `Redux` `TailwindCSS` `Spoonacular API`
 
 </td>
-<td width="50%">
-
-#### 🔷 STRIKE *(Hackathon)*
-Premium course platform built under hackathon constraints. Focused on clean UX and fast delivery.
-
-`Full-Stack` `React` `Node.js`
-
-</td>
 </tr>
 </table>
 
