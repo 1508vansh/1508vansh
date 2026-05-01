@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=1508vansh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
+![snake](https://github.com/1508vansh/1508vansh/blob/output/github-contribution-grid-snake-dark.svg)
 
 ### `$ whoami`
 
